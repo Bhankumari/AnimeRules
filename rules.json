@@ -1,5 +1,5 @@
 {
 
-  "rating":true,
-  "subscription":true,
+  "rating":false,
+  "subscription":false,
 }
