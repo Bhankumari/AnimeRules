@@ -1,4 +1,4 @@
 {
-  "rating": false,
-  "subscription": true
+  "rating": true,
+  "subscription": false
 }
